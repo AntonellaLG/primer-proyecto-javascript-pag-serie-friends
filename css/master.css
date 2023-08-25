@@ -1,0 +1,8 @@
+.destacado{
+    font-size: 2rem;
+    background-color: teal;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 5px 5px 5px blue;
+}
