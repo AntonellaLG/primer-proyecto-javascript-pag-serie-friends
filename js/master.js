@@ -39,7 +39,7 @@ let friendsPersonajes = [
         apellido: "Geller",
         foto : 'https://media.tenor.com/ErwgCWVPlUQAAAAC/im-fine-friends.gif',
         descripcion: "Aunque en general tiene un carácter dulce, a menudo es socialmente torpe. Tiene un buen sentido del humor y muchas veces resulta gracioso por sus gestos y acciones. Puede ser algo arrogante, pero es bien intencionado y un muy buen amigo.",
-        frase: "“Pivot! Pivot!”", //We were on a break!
+        frase: "“We were on a break!”",
     },
 ]
 
