@@ -52,7 +52,7 @@ tituloPag.classList.add('destacado')
 
 for(let i=0; i<friendsPersonajes.length; i++){
     personajes.innerHTML+=`
-    <div class="card mb-3 mx-auto" style="max-width: 800px;">
+    <div class="card mb-3 mx-auto" style="max-width: 640px;">
         <div class="row g-0">
             <div class="col-md-4">
                 <img src="${friendsPersonajes[i].foto}" class="img-fluid rounded-start" alt="Imagen ${friendsPersonajes[i].nombre} Friends">
