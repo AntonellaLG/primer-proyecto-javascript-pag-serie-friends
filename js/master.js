@@ -10,14 +10,14 @@ let friendsPersonajes = [
         nombre: "Joey",
         apellido: "Tribbiani",
         foto : 'https://hips.hearstapps.com/hmg-prod/images/joey-1590653648.gif',
-        descripcion: "Es un chico encantador, cariñoso con sus amigas y un buen amigo. Un poco lento para entender las cosas, pero aun así es muy comprensivo y dulce.",
+        descripcion: "Es un chico encantador, extrovertido, cariñoso con sus amigas y un buen amigo. Un poco lento para entender las cosas, pero aun así es muy comprensivo y dulce.",
         frase: "“How you doing?”",
     },
     {
         nombre: "Rachel",
         apellido: "Green",
         foto : 'https://64.media.tumblr.com/a06e4927de1119e8f824746ff9f5eb35/tumblr_inline_pa4ff9CfCB1qlt39u_250.gifv',
-        descripcion: "Al principio es como una niña malcriada. Puede ser egocéntrica, pero es dulce y trata de ser una buena amiga.",
+        descripcion: "Al principio es como una niña malcriada. Puede ser egocéntrica, pero es dulce y trata de ser una buena amiga. Con el paso del tiempo se vuelve más independiente, se fortalece, y es una amiga generosa.",
         frase: "“ Dios mío. Me he convertido en mi padre. Me he esforzado tanto por no convertirme en mi madre, que no vi venir esto.”", //No uterus no opinion
     },
     {
