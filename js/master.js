@@ -10,7 +10,7 @@ let friendsPersonajes = [
         nombre: "Joey",
         apellido: "Tribbiani",
         foto : 'https://hips.hearstapps.com/hmg-prod/images/joey-1590653648.gif',
-        descripcion: "Es un chico encantador, extrovertido, cariñoso con sus amigas y un buen amigo. Un poco lento para entender las cosas, pero aun así es muy comprensivo y dulce.",
+        descripcion: "Es un chico encantador, extrovertido, cariñoso con sus amigas y un buen amigo. Un poco lento para entender las cosas, pero aun así es muy comprensivo y tierno, de carácter infantil e inocente.",
         frase: "“How you doing?”",
     },
     {
