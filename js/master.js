@@ -55,7 +55,7 @@ for(let i=0; i<friendsPersonajes.length; i++){
     <div class="card mb-3" style="max-width: 540px;">
         <div class="row g-0">
             <div class="col-md-4">
-                <img src="${friendsPersonajes[i].foto}" class="img-fluid rounded-start" alt="Imagen Personaje Friends">
+                <img src="${friendsPersonajes[i].foto}" class="img-fluid rounded-start" alt="Imagen ${friendsPersonajes[i].nombre} Friends">
             </div>
             <div class="col-md-8">
                 <div class="card-body">
